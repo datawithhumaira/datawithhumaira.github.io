@@ -22,9 +22,29 @@ An end-to-end Business Intelligence project built in Power BI Desktop, using Pow
 </p>
 
 </div>
-
 ---
 
+<!-- WPS Forecasting & Predictive Analysis -->
+<div align="center" style="margin-bottom:40px;">
+
+  <a href="https://github.com/datawithhumaira/Student_Performance_Dashboard" target="_blank">
+    <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
+  </a>
+
+  <h3>💹 Student Performance Analysis — Excel to Power BI</h3>
+  <p style="text-align:justify; max-width:700px; font-size:0.95rem;">
+   Analysis of 6,607 student records to identify the strongest drivers of exam performance, built end-to-end in Excel (Power Query, correlation analysis) and Power BI (data model, DAX, interactive dashboard).
+  </p>
+  <p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
+
+  <p>
+    <a href="https://github.com/datawithhumaira/Student_Performance_Dashboard" target="_blank" style="text-decoration:none; font-weight:bold;">
+      🔗 View Project on GitHub
+    </a>
+  </p>
+
+</div>
+---
 <!-- WPS NTC Project -->
 <div align="center" style="margin-bottom:40px;">
 
@@ -40,53 +60,6 @@ An Excel-based analytics project that tracks onboarding performance of corporate
 
 <p>
   <a href="https://github.com/datawithhumaira/New-to-Company-NTC-Acquisition" target="_blank" style="text-decoration:none; font-weight:bold;">
-    🔗 View Project on GitHub
-  </a>
-</p>
-
-</div>
-
----
-
-<!-- WPS Forecasting & Predictive Analysis -->
-<div align="center" style="margin-bottom:40px;">
-
-  <a href="https://github.com/datawithhumaira/WPS-Forecasting-Predictive-Analysis" target="_blank">
-    <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
-  </a>
-
-  <h3>💹 WPS Forecasting & Predictive Analysis</h3>
-  <p style="text-align:justify; max-width:700px; font-size:0.95rem;">
-    Predict payroll growth and client activity in coming months using historical WPS transaction data. Highlights top-performing sectors and regions to support data-driven decisions.
-  </p>
-  <p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
-
-  <p>
-    <a href="https://github.com/datawithhumaira/WPS-Forecasting-Predictive-Analysis" target="_blank" style="text-decoration:none; font-weight:bold;">
-      🔗 View Project on GitHub
-    </a>
-  </p>
-
-</div>
-
-
----
-
-<!-- WPS-Market-Sector-Analysis -->
-<div align="center" style="margin-bottom:40px;">
-
-<a href="https://github.com/datawithhumaira/WPS-Market-Sector-Analysis" target="_blank">
-  <img src="https://img.icons8.com/color/96/bar-chart.png" width="60" alt="Analytics Icon">
-</a>
-
-<h3>💳 WPS Market Sector Analysis</h3>
-<p style="text-align:justify; max-width:700px; font-size:0.95rem;">
-Analyzes WPS product adoption across sectors and regions using SQL, Excel, and Power BI. Identifies high-performing industries, tracks client growth, and supports strategic business decisions.
-</p>
-<p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
-
-<p>
-  <a href="https://github.com/datawithhumaira/wps-market-sector-analysis/tree/main" style="text-decoration:none; font-weight:bold;">
     🔗 View Project on GitHub
   </a>
 </p>
