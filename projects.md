@@ -35,7 +35,7 @@ An end-to-end Business Intelligence project built in Power BI Desktop, using Pow
   <p style="text-align:justify; max-width:700px; font-size:0.95rem;">
    Analysis of 6,607 student records to identify the strongest drivers of exam performance, built end-to-end in Excel (Power Query, correlation analysis) and Power BI (data model, DAX, interactive dashboard).
   </p>
-  <p><b>Tools:</b> SQL | Excel | Power BI | Data Visualization</p>
+  <p><b>Tools:</b>  Excel | Power BI | Data Visualization</p>
 
   <p>
     <a href="https://github.com/datawithhumaira/Student_Performance_Dashboard" target="_blank" style="text-decoration:none; font-weight:bold;">
